@@ -1,2 +1,1 @@
-# examen-2
-# exameen.2
+# Manejo de productos para tienda
